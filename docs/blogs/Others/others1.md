@@ -9,8 +9,8 @@ tags:
 
 # 该博客是怎样搭建的
 
-今天终于把这个博客部署完了 天啦 好多小坑啊！！！
-等有时间再来慢慢整理！
+## 很多小坑 要慢慢弄
+等有时间再来慢慢整理吧！
 
 <div style="text-align:center">
     <img src="./imgs/friendship.png" alt="秋天哦" style="width: 550px">
