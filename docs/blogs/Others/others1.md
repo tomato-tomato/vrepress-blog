@@ -1,10 +1,10 @@
 ---
 date: 2020-10-10
-siderbar: 'auto'
+sidebar: 'auto'
 categories: 
-    - others
+    - Others
 tags: 
-    - others
+    - Others
 ---
 
 # 该博客是怎样搭建的

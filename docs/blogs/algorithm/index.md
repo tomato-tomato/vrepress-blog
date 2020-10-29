@@ -1,10 +1,10 @@
 ---
 date: 2020-10-17
-siderbar: 'auto'
+sidebar: 'auto'
 categories: 
-    - algorithm
+    - Algorithm
 tags: 
-    - algorithm
+    - Algorithm
 sticky: 1
 ---
 

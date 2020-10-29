@@ -1,9 +1,9 @@
 ---
 date: 2020-10-10
-siderbar: 'auto'
+sidebar: 'auto'
 categories: 
-    - others
+    - Others
 tags: 
-    - others
+    - Others
 ---
 # 关于博主
