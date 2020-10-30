@@ -33,11 +33,36 @@ module.exports = {
         author: "lukeyan",
         authorAvatar: "/logo.svg",
         startYear: "2020",
+        //评论模块
         valineConfig: {
             appID: 'SaQhu6bMtiMJjXmG56af85JQ-gzGzoHsz',
             appKey: 'w7EOzhmq8QfQ1iA24w8LaYwU',
             showComment: false
-        }
+        },
+        sidebar:  {
+            '/blogs/Algorithm/': [
+                {
+                    title: "LeetCode刷题",
+                    collapsable: false,
+                    children: [
+                        {title: '总览', path: '/blogs/Algorithm/'},
+                        {title: '目录', collapsable: true, 
+                            children: [
+                                {title: '数组', path: 'Array'},                        
+                                {title: '链表', path: 'List'},                       
+                                {title: '栈', path: 'Stack'},                       
+                                {title: '队列', path: 'Queue'},
+                            ]
+                        },
+                        {title: '数组', path: 'Array'},                        
+                        {title: '链表', path: 'List'},                       
+                        {title: '栈', path: 'Stack'},                       
+                        {title: '队列', path: 'Queue'},                       
+                    ]
+                }
+            ]
+        },
+        sidebarDepth: 3
     },
     markdown: {
         lineNumbers: true

@@ -9,6 +9,7 @@ tags:
  - Nodejs
  - Sequelize
 publish: true
+isShowComments: true
 ---
 
 ::: tip 概述
