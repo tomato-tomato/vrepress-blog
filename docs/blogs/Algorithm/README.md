@@ -27,3 +27,9 @@ sticky: 1
 -   1.两数之和 [链接](https://leetcode-cn.com/problems/two-sum/)
 
 -   15.三数之和 [链接](https://leetcode-cn.com/problems/3sum/)
+
+-   206.反转链表 [链接](https://leetcode-cn.com/problems/reverse-linked-list/)
+
+-   24.两两交换链表中的节点 [链接](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
+
+-   141.环形链表 [链接](https://leetcode-cn.com/problems/linked-list-cycle/)
