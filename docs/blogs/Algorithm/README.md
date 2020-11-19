@@ -33,3 +33,5 @@ sticky: 1
 -   24.两两交换链表中的节点 [链接](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
 -   141.环形链表 [链接](https://leetcode-cn.com/problems/linked-list-cycle/)
+
+-   142.环形链表II [链接](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
