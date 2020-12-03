@@ -47,14 +47,12 @@ module.exports = {
                     children: [
                         {title: '总览', path: '/blogs/Algorithm/'},
                         {title: '目录', collapsable: true, 
-                            children: [
-                                {title: '数组', path: 'Array'},                        
+                            children: [                       
                                 {title: '链表', path: 'List'},                       
                                 {title: '栈', path: 'Stack'},                       
                                 {title: '队列', path: 'Queue'},
                             ]
-                        },
-                        {title: '数组', path: 'Array'},                        
+                        },                        
                         {title: '链表', path: 'List'},                       
                         {title: '栈', path: 'Stack'},                       
                         {title: '队列', path: 'Queue'},                       
