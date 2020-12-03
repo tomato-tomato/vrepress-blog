@@ -2,7 +2,7 @@
 home: true
 heroImage: /heropic.svg
 heroText: 瓦楞纸搭窝
-tagline: Tomato的小窝
+tagline: Tomato的笔记小窝
 features:
 
 - title: 学习笔记
