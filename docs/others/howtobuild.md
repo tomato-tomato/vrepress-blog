@@ -5,6 +5,8 @@ categories:
     - Others
 tags: 
     - Others
+publish: true
+isShowComments: true
 ---
 
 # 该博客是怎样搭建的
@@ -44,6 +46,7 @@ reco 官方提供的目录结构为 `.vuepress`作为主题文件夹， `blogs`�
 
 文章页为markdown文件，[支持的markdown语法](https://vuepress-theme-reco.recoluan.com/views/1.x/syntax.html)，头部依然可以使用`YAML`做设置。[reco官网对应文档](https://vuepress-theme-reco.recoluan.com/views/1.x/frontMatter.html)
 
+博客文章文件中`categories` 和 `tags` 属性一定要设置，vuepress根据这两个属性自动生成分类并归类。
 
 > 支持emoji :grin: [所有可以使用的emoji](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json)
 

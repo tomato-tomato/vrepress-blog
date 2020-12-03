@@ -35,8 +35,8 @@ module.exports = {
         startYear: "2020",
         //评论模块
         valineConfig: {
-            appID: 'SaQhu6bMtiMJjXmG56af85JQ-gzGzoHsz',
-            appKey: 'w7EOzhmq8QfQ1iA24w8LaYwU',
+            appId: "SaQhu6bMtiMJjXmG56af85JQ-gzGzoHsz",
+            appKey: "w7EOzhmq8QfQ1iA24w8LaYwU",
             showComment: false
         },
         sidebar:  {
