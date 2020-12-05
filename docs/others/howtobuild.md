@@ -18,7 +18,7 @@ isShowComments: true
 切入正题，来说说我是怎么搭建这个博客的。
 
 ## 1.选定框架及主题
-本博客使用的是 [VuePress](https://vuepress.vuejs.org/zh/)（额~ hexo 没找到喜欢的主题，React只知道皮毛所以没用 Gastby），使用的主题是 [reco](https://vuepress-theme-reco.recoluan.com/)。就喜欢它的简单。
+本博客使用的是 [VuePress](https://vuepress.vuejs.org/zh/)（额~ hexo 没找到喜欢的主题，React只知道皮毛所以没用 Gastby），使用的主题是 [reco](https://vuepress-theme-reco.recoluan.com/)。已经集成了些好用的插件，比较方便。另外就是界面简洁好看。:smile:
 
 ## 2.初始化及确认文件夹结构
 reco 提供了脚手架的功能，可以直接 npm 安装使用。（PS: 打开reco主题网站后不要被它旋转的方块迷惑了，往下滑才能看到）可以直接使用自动生成的文件夹结构。
