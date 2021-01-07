@@ -1,5 +1,5 @@
 ---
-title: Sequelize
+title: Promise相关异步代码执行顺序
 date: 2021-01-07
 sidebar: 'auto'
 categories:
@@ -10,10 +10,6 @@ tags:
 publish: true
 isShowComments: true
 ---
-
-::: tip 概述
-promise 相关异步代码执行顺序
-:::
 
 ## 示例代码
 ```js
