@@ -56,6 +56,6 @@ reco 官方提供的目录结构为 `.vuepress`作为主题文件夹， `blogs`�
 - 注意路径
 
 > [reco官方Pages部署](https://vuepress-theme-reco.recoluan.com/views/other/deploy.html)
-> [reco官方使用GitHub Actions自动部署博客](https://vuepress-theme-reco.recoluan.com/views/other/github-actions.html)
+ [reco官方使用GitHub Actions自动部署博客](https://vuepress-theme-reco.recoluan.com/views/other/github-actions.html)
 ## 结尾
 搭建这个博客花了点时间，一开始被reco官方首页的旋转小方块迷惑 :sweat_smile:,没发现下面的东西走了很多弯路。最开始直接从vuepress 官方文档开始慢慢看慢慢学怎么出来的页面都有问题。到后来慢慢的页面出现在面前，设置的地方也都出来的时候，还是蛮开心的。后面就是慢慢的写点内容了，好好加油 :tada: :rose:
