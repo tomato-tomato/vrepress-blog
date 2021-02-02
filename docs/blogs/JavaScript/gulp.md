@@ -204,3 +204,16 @@ exports.default = () => {
     	.pipe(dest('dist'))
 }
 ```
+
+## gulp常用插件
+- HTML压缩 -- gulp-htmlmin
+- JS 压缩 -- gulp-uglify
+- JS 兼容处理 -- gulp-babel、@babel/core、@babel/preset-env
+- CSS 压缩 -- gulp-clean-css
+- CSS 预编译 -- gulp-sass
+- 图片字体压缩 -- gulp-imagemin
+- 删除文件 -- del
+- 插件自动加载 -- gulp-load-plugins
+- 热更新开发服务器 -- browser-sync
+- 对文件中依赖项的处理 -- gulp-useref
+- 判断 -- gulp-if
