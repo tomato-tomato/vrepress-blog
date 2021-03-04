@@ -495,7 +495,13 @@ module.exports = (evn, argv) => {
        config.plugins = [
            ...config.plugins,
            new CleanWebpackPlugin(),
-           new CopyPlugin(['public'])
+           new CopyPlugin({
+            patterns: [
+                {
+                    from: './public'
+                }
+            ]
+        })
        ]
    }
 
@@ -525,7 +531,17 @@ module.exports = merge(common, {
     mode: 'production',
     plugins: [
         new CleanWebpackPlugin(),
-        new CopyWebpackPlugin(['public'])
+        new CopyWebpackPlugin({
+            patterns: [
+                {
+                    from: './public',
+                    to: './',
+                    globOptions: {
+                        ignore: ["**/*.html"],
+                    }
+                }
+            ]
+        })
     ]
 })
 
