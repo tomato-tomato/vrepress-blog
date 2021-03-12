@@ -40,27 +40,21 @@ module.exports = {
             showComment: false
         },
         sidebar:  {
-            // '/blogs/Algorithm/': [
-            //     {
-            //         title: "LeetCode刷题",
-            //         collapsable: false,
-            //         children: [
-            //             {title: '总览', path: '/blogs/Algorithm/'},
-            //             {title: '目录', collapsable: true, 
-            //                 children: [                       
-            //                     {title: '链表', path: 'List'},                       
-            //                     {title: '栈', path: 'Stack'},                       
-            //                     {title: '队列', path: 'Queue'},
-            //                 ]
-            //             },                        
-            //             {title: '链表', path: 'List'},                       
-            //             {title: '栈', path: 'Stack'},                       
-            //             {title: '队列', path: 'Queue'},                       
-            //         ]
-            //     }
-            // ]
+            '/blogs/Algorithm/': [
+                {
+                    title: "LeetCode刷题",
+                    children: [
+                        {title: '总览', path: '/blogs/Algorithm/'},
+                        {title: '目录', collapsable: true, 
+                            children: [                       
+                                {title: '链表', path: 'String/08parseInt'}
+                            ]
+                        }                       
+                    ]
+                }
+            ]
         },
-        sidebarDepth: 3
+        sidebarDepth: 2
     },
     markdown: {
         lineNumbers: true
