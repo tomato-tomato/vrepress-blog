@@ -1,4 +1,5 @@
 ---
+title: 08 - 字符串转换整数
 date: 2021-03-12
 sidebar: 'auto'
 categories: 
@@ -9,8 +10,10 @@ isShowComments: true
 publish: true
 ---
 
-# 8. 字符串转换整数 (atoi)
+
 ## 题目：
+<i class="far fa-keyboard"></i>[原题链接](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+
 该题需要实现一个函数，使其能将字符串转换成一个 32 位有符号整数（类似 C/C++ 中的 atoi 函数）。
 读题之后主要有以下几点
   - 传入的字符串前导空格需丢弃

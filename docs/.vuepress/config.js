@@ -43,18 +43,19 @@ module.exports = {
             '/blogs/Algorithm/': [
                 {
                     title: "LeetCode刷题",
+                    collapsable: false, 
                     children: [
                         {title: '总览', path: '/blogs/Algorithm/'},
-                        {title: '目录', collapsable: true, 
+                        {title: '链表', collapsable: false, 
                             children: [                       
-                                {title: '链表', path: 'String/08parseInt'}
+                                {title: '08.字符串转换', path: 'String/08parseInt'}
                             ]
                         }                       
                     ]
                 }
             ]
         },
-        sidebarDepth: 2
+        sidebarDepth: 4
     },
     markdown: {
         lineNumbers: true
