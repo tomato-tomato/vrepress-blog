@@ -3,7 +3,7 @@ module.exports = {
     description: 'Don\'t Settle!',
     port: 9090,
     dest: 'dist',
-    base: '/vuepress-blog/'
+    base: '/vuepress-blog/',
     locales: {
         '/': {
             lang: 'zh-CN'
